@@ -21,4 +21,9 @@
 - [합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_8393.java)
 - [빠른 A+B](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_15552.java)
 - [N찍기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_2741.java)
-- []
+- [기찍N](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_2742.java)
+- [A+B -7](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_11021.java)
+- [A+B -8](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_11022.java)
+- [별 찍기 -1](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_2438.java)
+- [별 찍기 -2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_2439.java)
+- [X보다 작은 수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step3/num_10871.java)
