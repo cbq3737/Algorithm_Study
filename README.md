@@ -30,6 +30,11 @@
 - [A+B -5](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step4/num_10952.java)
 - [A+B -4](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step4/num_10951.java)
 - [더하기 싸이클](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step4/num_1110.java)
-- []
-- []
+- [최소,최대](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_10818.java)
+- [최댓값](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_2562.java)
+- [숫자의 개수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_2577.java)
+- [나머지](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_3052.java)
+- [평균](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_1546.java)
+- [OX퀴즈]
+- [평균은 넘겠지]
 - []
