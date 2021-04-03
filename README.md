@@ -38,7 +38,7 @@
 - [OX퀴즈](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_8958.java)
 - [평균은 넘겠지](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_4344.java)
 - [정수 N개의 합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step6/num_15596.java)
-- [셀프 넘버](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_4673.java)
+- [셀프 넘버](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step6/num_4673.java)
 - [한수]
 - []
 - []
