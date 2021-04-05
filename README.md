@@ -39,8 +39,16 @@
 - [평균은 넘겠지](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step5/num_4344.java)
 - [정수 N개의 합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step6/num_15596.java)
 - [셀프 넘버](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step6/num_4673.java)
-- [한수]
-- []
-- []
+- [한수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step6/num_1065.java)
+- [아스키 코드](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_11654.java)
+- [숫자의 합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_11720.java)
+- [알파벳 찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_10809.java)
+- [문자열 반복](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_2675.java)
+- [단어 공부]
+- [단어의 개수]
+- [상수]
+- [다이얼]
+- [크로아티아 알파벳]
+- [그룹 단어 체커]
 - []
 - []
