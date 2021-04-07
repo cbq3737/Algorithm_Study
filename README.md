@@ -44,11 +44,18 @@
 - [숫자의 합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_11720.java)
 - [알파벳 찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_10809.java)
 - [문자열 반복](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_2675.java)
-- [단어 공부]
-- [단어의 개수]
-- [상수]
-- [다이얼]
-- [크로아티아 알파벳]
-- [그룹 단어 체커]
-- []
-- []
+- [단어 공부](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_1157.java))
+- [단어의 개수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_1152.java)
+- [상수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_2908.java)
+- [다이얼](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_5622.java)
+- [크로아티아 알파벳](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_2941.java)
+- [그룹 단어 체커](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_1316.java)
+- [손익분기점](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_1712.java)
+- [벌집](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_2292.java)
+- [분수찾기]
+- [달팽이는 올라가고 싶다]
+- [ACM호텔]
+- [부녀회장이 될테야]
+- [설탕 배달]
+- [큰수 A+B]
+- [Fly me to the Alpha Centauri]
