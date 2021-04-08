@@ -52,7 +52,7 @@
 - [그룹 단어 체커](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_1316.java)
 - [손익분기점](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_1712.java)
 - [벌집](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_2292.java)
-- [분수찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_1193.java)
+- [분수찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_1093.java)
 - [달팽이는 올라가고 싶다](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_2869.java)
 - [ACM호텔](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_10250.java)
 - [부녀회장이 될테야](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_2775.java)
