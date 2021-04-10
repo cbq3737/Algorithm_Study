@@ -56,9 +56,9 @@
 - [달팽이는 올라가고 싶다](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_2869.java)
 - [ACM호텔](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_10250.java)
 - [부녀회장이 될테야](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_2775.java)
-- [설탕 배달]
-- [큰수 A+B]
-- [Fly me to the Alpha Centauri]
+- [설탕 배달](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_2839.java)
+- [큰수 A+B](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_10757.java)
+- [Fly me to the Alpha Centauri](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_1011.java)
 - []
 - []
 - []
