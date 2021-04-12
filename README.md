@@ -59,10 +59,17 @@
 - [설탕 배달](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_2839.java)
 - [큰수 A+B](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_10757.java)
 - [Fly me to the Alpha Centauri](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step8/num_1011.java)
-- []
-- []
-- []
-- []
+- [소수 찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_1978.java)
+- [소수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_2581.java)
+- [소인수분해](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_11653.java)
+- [소수 구하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_1929.java)
+- [베르트랑 공준]
+- [골드바흐의 추측]
+- [직사각형에서 탈출]
+- [네 번째 점]
+- [직각삼각형]
+- [택시 기하학]
+- [터렛]
 - []
 - []
 - []
