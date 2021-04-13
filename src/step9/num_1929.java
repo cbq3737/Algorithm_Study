@@ -17,6 +17,7 @@ public class num_1929 {
 		int nNum = Integer.parseInt(tk.nextToken());
 		boolean[] prime = new boolean[nNum+1];
 		prime[0] = prime[1]= true;
+		
 		for(int i=2;i<=Math.sqrt(prime.length);i++) {
 			if(prime[i]==true) {
 				continue;
