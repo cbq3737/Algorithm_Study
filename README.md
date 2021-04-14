@@ -67,9 +67,20 @@
 - [골드바흐의 추측](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_9020.java)
 - [직사각형에서 탈출](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_1085.java)
 - [네 번째 점](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_3009.java)
-- [직각삼각형]
-- [택시 기하학]
-- [터렛]
+- [직각삼각형](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_4153.java)
+- [택시 기하학](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_3053.java)
+- [터렛](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_1002.java)
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 - []
 - []
 - []
