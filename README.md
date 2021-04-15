@@ -70,10 +70,10 @@
 - [직각삼각형](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_4153.java)
 - [택시 기하학](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_3053.java)
 - [터렛](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step9/num_1002.java)
-- []
-- []
-- []
-- []
+- [팩토리얼](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_10872.java)
+- [피보나치수5](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_10870.java)
+- [별 찍기 - 10](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_2447.java)(https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_2447_1.java))
+- [하노이 탑 이동순서](
 - []
 - []
 - []
