@@ -44,7 +44,7 @@
 - [숫자의 합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_11720.java)
 - [알파벳 찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_10809.java)
 - [문자열 반복](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_2675.java)
-- [단어 공부](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_1157.java))
+- [단어 공부](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_1157.java)
 - [단어의 개수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_1152.java)
 - [상수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_2908.java)
 - [다이얼](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_5622.java)
@@ -76,11 +76,18 @@
 - [하노이 탑 이동순서](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_11729.java)
 - [블랙잭](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2798.java)
 - [분해합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2231.java)
-- [덩치]((https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_7568.java)
+- [덩치](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_7568.java)
 - [체스판 다시 칠하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1018.java)
 - [영화감독 숌](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1436.java)
-- []
-- []
-- []
+- [수 정렬하기]
+- [수 정렬하기2]
+- [수 정렬하기3]
+- [통계학]
+- [소트인사이드]
+- [좌표 정렬하기]
+- [좌표 정렬하기2]
+- [단어 정렬]
+- [나이순 정렬]
+- [좌표 압축]
 - []
 - []
