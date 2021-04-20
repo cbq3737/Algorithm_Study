@@ -76,9 +76,9 @@
 - [하노이 탑 이동순서](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_11729.java)
 - [블랙잭](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2798.java)
 - [분해합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2231.java)
-- [덩치]
-- [체스판 다시 칠하기]
-- [영화감독 ]
+- [덩치]((https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_7568.java)
+- [체스판 다시 칠하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1018.java)
+- [영화감독 숌](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1436.java)
 - []
 - []
 - []
