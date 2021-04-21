@@ -79,9 +79,9 @@
 - [덩치](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_7568.java)
 - [체스판 다시 칠하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1018.java)
 - [영화감독 숌](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1436.java)
-- [수 정렬하기]
-- [수 정렬하기2]
-- [수 정렬하기3]
+- [수 정렬하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_2750.java)
+- [수 정렬하기2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_2751.java)
+- [수 정렬하기3](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_10989.java)
 - [통계학]
 - [소트인사이드]
 - [좌표 정렬하기]
