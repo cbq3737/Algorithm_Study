@@ -82,7 +82,7 @@
 - [수 정렬하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_2750.java)
 - [수 정렬하기2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_2751.java)
 - [수 정렬하기3](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_10989.java)
-- [통계학]
+- [통계학](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_2108.java)
 - [소트인사이드]
 - [좌표 정렬하기]
 - [좌표 정렬하기2]
