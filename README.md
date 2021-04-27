@@ -86,7 +86,7 @@
 - [소트인사이드](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_1427.java)
 - [좌표 정렬하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_11650.java)
 - [좌표 정렬하기2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_11651.java)
-- [단어 정렬]
+- [단어 정렬](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_1181.java)
 - [나이순 정렬]
 - [좌표 압축]
 - []
