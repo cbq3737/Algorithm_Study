@@ -13,24 +13,24 @@ public class num_2750 {
 		for (int i = 0; i < nNum; i++) {
 			arr[i] = Integer.parseInt(br.readLine());
 		}
-//		for (int i = 0; i < nNum; i++) {
-//			for(int j=0;j<(nNum-1);j++) {
-//				int key = arr[j + 1];
-//				if (arr[j] > key) {
-//					arr[j + 1] = arr[j];
-//					arr[j] = key;
-//				}	
-//			}
-//		}
-		for(int i=0;i<nNum;i++) {
-			for(int j=0;j<(nNum-1);j++) {
-				if(arr[j]>arr[j+1]) {
-					int temp = arr[j+1];
-					arr[j+1]= arr[j];
-					arr[j]= temp;
-				}
+		for (int i = 1; i < nNum; i++) {
+			int key = arr[i];
+			for(int j=(i-1);j>=0;j--) {
+				if (arr[j] > key) {
+					arr[j + 1] = arr[j];
+					arr[j] = key;
+				}	
 			}
 		}
+//		for(int i=0;i<nNum;i++) {
+//			for(int j=0;j<(nNum-1);j++) {
+//				if(arr[j]>arr[j+1]) {
+//					int temp = arr[j+1];
+//					arr[j+1]= arr[j];
+//					arr[j]= temp;
+//				}
+//			}
+//		}
 		
 		for(int i=0;i<nNum;i++) {
 			System.out.println(arr[i]);
