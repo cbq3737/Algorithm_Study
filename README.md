@@ -89,7 +89,7 @@
 - [단어 정렬](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_1181.java)
 - [나이순 정렬](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_10814.java)
 - [좌표 압축](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_18870.java)
-- [N과 M(1)](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_15651.java)
+- [N과 M(1)](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_15649.java)
 - [N과 M(2)](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_15650.java)
 - [N과 M(3)]
 - [N과 M(4)]
