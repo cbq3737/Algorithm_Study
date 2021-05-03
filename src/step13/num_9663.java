@@ -6,62 +6,37 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 public class num_9663 {
-	static int count_r =0;
-	public static void check_func(boolean[][] check_arr,int nNum,int x,int y,int star_count) {
-		boolean[][] check= new boolean[nNum][nNum];
-	
-		for(int i=0;i<nNum;i++) {
-			for(int j=0;j<nNum;j++) {
-				check[i][j] = check_arr[i][j];
-			}
-		}
-			
-		if(star_count == nNum) {
-			count_r++;
+	public static int nNum;
+	public static int[] arr;
+	public static int count =0;
+	public static void nQueen(int depth) {
+		if(depth==nNum) {
+			count++;
 			return;
 		}
-		
-		for(int i = y;i<nNum;i++) {
-			check[x][i]= false;
-		}
-		for(int i = x;i<nNum;i++) {
-			check[i][y]= false;
-		}
-		
-		for(int i=1;i<nNum;i++) {
-			if((x+i<nNum) && (y+i<nNum)) {
-				check[i+x][y+i] = false;
-			}
-			if((x+i<nNum) && (y-i>=0)) {
-				check[i+x][y-i] = false;
+		for(int i=0;i<nNum;i++) {
+			arr[depth] = i; //몇번째 열의 어디 위치인지
+			if(Promising(depth)) {//놓을수 있는 위치일 경우
+				nQueen(depth+1);
 			}
 		}
-		
-		for(int i=(x+1);i<nNum;i++) {
-			for(int j=0;j<nNum;j++) {
-				if(check[i][j]==true) {
-//					check[i][j]= false;
-					check_func(check,nNum,i,j,star_count+1);
-				}
+	}
+	public static boolean Promising(int depth) { //인자로 인덱스번호가 들어옴
+		for(int i=0;i<depth;i++) {
+			if(arr[depth] == arr[i]) { //같은 열
+				return false;
+			}
+			else if(Math.abs(depth-i)==Math.abs(arr[depth]-arr[i])) { //대각선에 위치
+				return false;
 			}
 		}
+		return true;
 	}
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int nNum = Integer.parseInt(br.readLine());
-		
-		boolean[][] check = new boolean[nNum][nNum]; 
-		for(int i=0;i<nNum;i++) {
-			for(int j=0;j<nNum;j++) {
-				check[i][j]= true;
-			}
-		}
-		for(int i=0;i<nNum;i++) {
-			for(int j=0;j<nNum;j++) {				
-				check_func(check,nNum,i,j,1);
-			}
-		}
-
-		System.out.println(count_r);
-	}
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+			nNum = Integer.parseInt(br.readLine());
+			arr = new int[nNum];
+			nQueen(0);
+			System.out.println(count);
+	}	
 }
