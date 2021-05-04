@@ -95,5 +95,6 @@
 - [N과 M(4)](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_15652.java)
 - [N-Queen](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_9663.java)
 - [스도쿠](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_2580.java)
-- [연산자 끼워넣기]
-- [스타트와 링크]
+- [연산자 끼워넣기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_14888.java)
+- [스타트와 링크](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_14889.java)
+- [스타트와 링크_1](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_14889_1.java)
