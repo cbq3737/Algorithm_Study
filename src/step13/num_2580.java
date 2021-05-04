@@ -70,5 +70,4 @@ public class num_2580 {
 		}
 		check_num(0,0);
 	}
-	
 }
