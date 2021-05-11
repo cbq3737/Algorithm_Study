@@ -101,8 +101,8 @@
 - [스타트와 링크_1](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_14889_1.java)
 - [스타트와 링크_복습](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_14889_repeat.java)
 - [피보나치 함수(동적계획법)](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1003.java)
-- []
-- []
+- [신나는 함수 실행](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9184.java)
+- [01타일](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1904.java)
 - []
 - []
 - []
