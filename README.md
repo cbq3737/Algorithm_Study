@@ -103,6 +103,10 @@
 - [피보나치 함수(동적계획법)](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1003.java)
 - [신나는 함수 실행](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9184.java)
 - [01타일](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1904.java)
+- [파도반 수열](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9461.java)
+- [RGB 거리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1149.java)
+- []
+- []
 - []
 - []
 - []
