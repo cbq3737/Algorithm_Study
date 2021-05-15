@@ -105,7 +105,7 @@
 - [01타일](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1904.java)
 - [파도반 수열](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9461.java)
 - [RGB 거리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1149.java)
-- []
+- [정수 삼각형](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1932.java)
 - []
 - []
 - []
