@@ -107,7 +107,7 @@
 - [RGB 거리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1149.java)
 - [정수 삼각형](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1932.java)
 - [계단 오르기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_2579.java)
-- []
+- [1로 만들기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1463.java)
 - []
 - []
 - []
