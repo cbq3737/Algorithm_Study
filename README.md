@@ -110,4 +110,4 @@
 - [1로 만들기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1463.java)
 - [계단오르기_복습](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_2579_repeat.java)
 - [1로 만들기_복습](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1463_repeat.java)
-- []
+- [쉬운 계단 수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_10844.java)
