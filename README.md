@@ -112,7 +112,7 @@
 - [1로 만들기_복습](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1463_repeat.java)
 - [쉬운 계단 수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_10844.java)
 - [포도주 시식](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_2156.java)
-- []
+- [가장 긴 증가하는 부분 수열](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_11053.java)
 - []
 - []
 - []
