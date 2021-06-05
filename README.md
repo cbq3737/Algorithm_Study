@@ -117,7 +117,7 @@
 - [가장 긴 증가하는 부분 수열](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_11053.java)
 - [가장 긴 바이토닉 부분 수열](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_11054.java)
 - [전깃줄](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_2565.java)
-- []
+- [LCS](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9251.java)
 - []
 - []
 - []
