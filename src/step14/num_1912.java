@@ -23,7 +23,6 @@ public class num_1912 {
 			dp[i] =Math.max(dp[i-1]+arr[i], arr[i]);
 			max= Math.max(dp[i], max);
 		}
-		
 		System.out.println(max);
 	}
 }
