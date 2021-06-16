@@ -135,7 +135,7 @@
 - [DFS](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_4/DfsSearch.java)
 - [BFS](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_4/BfsSearch.java)
 - [최단 거리 구하기](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_5/MyGraph.java)
-- [미로 찾기 문제] (https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_6)
+- [미로 찾기 문제] (https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_6/MazeTest.java)
 
 
 
