@@ -120,7 +120,7 @@
 - [LCS](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9251.java)
 - [연속합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1912.java)
 - [평범한 배낭](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_12865.java)
-- []
+- [평범한 배낭_복습](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_12865_repeat.java)
 - []
 - []
 
