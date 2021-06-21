@@ -142,11 +142,10 @@
 
 
 
-
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
 ## 🗝 알고리즘 풀이 링크
-- []
+- [K번째 수](https://github.com/cbq3737/Algorithm_Study/tree/master/Programmers/k_num.java)
 - []
 - []
 
