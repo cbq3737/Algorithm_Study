@@ -141,7 +141,7 @@
 - [미로 찾기 문제](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_6/MazeTest.java)
 - [피보나치 수열 문제 여러 방식으로 해결하기](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_7/Fibonacci.java)
 - [여러 종류의 동전으로 가격 지불하는 문제](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_8/greedyTest.java)
-
+- [경우의 수](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_9/BruteForceSearch.java)
 
 
 
