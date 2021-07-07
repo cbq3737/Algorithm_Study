@@ -126,7 +126,7 @@
 - [ATM](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_11399.java)
 - [잃어버린 괄호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_1541.java)
 - [주유소](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_13305.java)
-
+- [배수와 약수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_5086.java)
 
 # ✒️FastCampus
 
