@@ -128,7 +128,7 @@
 - [주유소](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_13305.java)
 - [배수와 약수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_5086.java)
 - [약수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_1037.java)
-
+- [최대공약수와 최소공배수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_2609.java)
 
 
 
