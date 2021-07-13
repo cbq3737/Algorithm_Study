@@ -15,8 +15,10 @@ public class num_2609 {
 	int right = Integer.parseInt(tk.nextToken());
 	int gcd = gcd(left,right);
 	int lcm = (left*right)/gcd;
+	
 	System.out.println(gcd);
 	System.out.println(lcm);
+	
 	}
 	public static int gcd(int left,int right) {
 		while(right!=0) {
@@ -24,7 +26,6 @@ public class num_2609 {
 			left = right;
 			right = r;
 		}
-
 		return left;
 	}
 }
