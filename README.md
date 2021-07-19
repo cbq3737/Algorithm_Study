@@ -131,7 +131,7 @@
 - [최대공약수와 최소공배수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_2609.java)
 - [최소 공배수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_1934.java)
 - [검문](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_2981.java)
-
+- [링](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_3036.java)
 
 
 
