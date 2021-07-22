@@ -133,7 +133,7 @@
 - [검문](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_2981.java)
 - [링](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_3036.java)
 - [이항 계수1](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_11050.java)
-
+- [다리 놓기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_1010.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)
