@@ -134,6 +134,8 @@
 - [링](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_3036.java)
 - [이항 계수1](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_11050.java)
 - [다리 놓기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_1010.java)
+- [스택](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_10828.java)
+- [제로](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_10773.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)
