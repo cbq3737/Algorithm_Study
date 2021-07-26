@@ -138,8 +138,11 @@
 - [제로](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_10773.java)
 - [괄호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_9012.java)
 
+
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)
+- [오목](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2615.java)
+
 
 # ✒️FastCampus
 
