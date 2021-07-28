@@ -137,7 +137,8 @@
 - [스택](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_10828.java)
 - [제로](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_10773.java)
 - [괄호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_9012.java)
-- [균형잡힌 세상](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_4949.java)
+- [균형잡힌 세상_stack](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_4949.java)
+- [균형잡힌 세상_Array](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/Main.java)
 - [스택 수열](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_1874.java)
 
 ## ❌ 미해결 문제
