@@ -141,6 +141,8 @@
 - [균형잡힌 세상_Array](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/Main.java)
 - [스택 수열](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_1874.java)
 - [오큰수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_17298.java)
+- [스위치 켜고 끄기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1244.java)
+- [재귀](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_17478.java)
 
 
 ## ❌ 미해결 문제
@@ -164,6 +166,12 @@
 - [경우의 수](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_9/BruteForceSearch.java)
 - [특정 범위의 숫자가 나열되어 있을 때 각 숫자의 개수](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_10/Counting.java)
 
+
+# ✒️SWEA
+<https://swexpertacademy.com/main/main.do>
+## 🗝 알고리즘 풀이 링크
+- [홀수만 더하기](https://github.com/cbq3737/Algorithm_Study/blob/master/D1/Solution.java)
+- [원재의 메모리 복구하기](https://github.com/cbq3737/Algorithm_Study/blob/master/D3/swea_1289.java)
 
 
 # ✒️Programmers 
