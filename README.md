@@ -144,12 +144,12 @@
 - [스위치 켜고 끄기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1244.java)
 - [재귀](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_17478.java)
 - [일곱 난쟁이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2309.java)
+- [오목](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2615.java)
 
 
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)
-- [오목](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2615.java)
 
 
 
