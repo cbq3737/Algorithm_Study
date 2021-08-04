@@ -144,7 +144,7 @@
 - [스위치 켜고 끄기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1244.java)
 - [재귀](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_17478.java)
 - [일곱 난쟁이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2309.java)
-- [오목](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2615.java)
+
 
 
 
@@ -184,7 +184,7 @@
 - [상호의 배틀 필드](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_1873.java)
 - [농작물 수확하기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_2805.java)
 - [파리 퇴치](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_2001.java)
-
+- [오목](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2615.java)
 
 
 # ✒️Programmers 

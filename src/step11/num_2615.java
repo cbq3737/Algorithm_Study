@@ -34,6 +34,7 @@ public class num_2615 {
 			}
 		}
 		boolean flag = true;
+		boolean zero_flag= false;
 		// 처음 이긴 좌표, 돌 색
 		int win_i = 0; //우승 i 좌표
 		int win_j = 0; //우승 j 좌표
@@ -52,21 +53,27 @@ public class num_2615 {
 							cnt = find_omok(deltas, ni, nj, cnt + 1, d, grid[i][j]); //같은색깔 발견해서 5개까지 찾았다면
 							win_color = grid[i][j];// 돌의 색
 							if (cnt == 5) { //오목을 찾고, 같은색이라면(=동시 승x)
-								if(i>0) {//반대 방향 검사
-									ni_del = i + deltas_del[d][0]; //반대 방향 좌표
+								
+								if(i==0 && j==0) { //그냥 0,0
+									zero_flag = true;
+								}else if((j==0 && j+deltas_del[d][1] < 0) || (i==0 && i+deltas_del[d][0] < 0)) {
+									ni_del = i;//벽쪽에 붙어있는 경우 검사할때 -1이라면
+									nj_del = j;
+									zero_flag = true;
+								}else {									
+									ni_del = i+deltas_del[d][0];
+									nj_del = j+deltas_del[d][1];
+								} 
+								//여기 조건문 굳이 length까지 검사 안해줘도 될 듯.-> 나중에 빼보자.
+								if(flag == true &&ni_del>=0&&nj_del>=0&&ni_del<grid.length&&nj_del<grid.length&&grid[ni_del][nj_del]!=win_color||zero_flag==true) {										
+									win_i = i;
+									win_j = j;
+									win_num = win_color;
+									flag= false;
+									zero_flag = false;
+									break;
 								}
-								if(j>0) {
-									nj_del = j + deltas_del[d][1]; //반대 방향 좌표
-								}
-								if(flag == true &&ni_del>=0 && nj_del>=0 &&ni_del <grid.length) { //유효 범위
-									if(	((i==0 || j==0) && grid[ni_del][nj_del] == win_color)  || grid[ni_del][nj_del] != win_color) {										
-										win_num = grid[i][j];//이긴 돌의 색상
-										win_i = i; //이긴 애 좌표 i
-										win_j = j; //이긴 애 좌표 j
-										flag = false; //맨 처음 밖에 못들옴.
-										break;
-									}
-								}
+								
 							} else {
 								// 초기화
 								cnt = 1;
