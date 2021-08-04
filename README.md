@@ -143,7 +143,7 @@
 - [오큰수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_17298.java)
 - [스위치 켜고 끄기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1244.java)
 - [재귀](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_17478.java)
-
+- [일곱 난쟁이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2309.java)
 
 
 
@@ -173,7 +173,6 @@
 
 
 
-
 # ✒️SWEA
 <https://swexpertacademy.com/main/main.do>
 ## 🗝 알고리즘 풀이 링크
@@ -182,6 +181,9 @@
 - [Flatten](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_1208.java)
 - [달팽이숫자](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1954.java)
 - [Ladder1](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1210.java)
+- [상호의 배틀 필드](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_1873.java)
+- [농작물 수확하기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_2805.java)
+- [파리 퇴치](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_2001.java)
 
 
 

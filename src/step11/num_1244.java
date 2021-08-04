@@ -30,7 +30,6 @@ public class num_1244 {
 				while (number * cnt <= switch_num) {
 					arr[number * cnt] = !arr[number * cnt];
 					cnt++;
-					
 				}
 			} else { // 여자
 				int cnt =1;
@@ -41,7 +40,6 @@ public class num_1244 {
 						cnt++;
 					}
 					else {
-						
 						break;
 					}
 				}
