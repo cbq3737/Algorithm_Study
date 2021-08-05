@@ -145,7 +145,7 @@
 - [재귀](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_17478.java)
 - [일곱 난쟁이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2309.java)
 - [오목](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2615.java)
-
+- [탑](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_2493.java)
 
 
 ## ❌ 미해결 문제
@@ -185,6 +185,10 @@
 - [농작물 수확하기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_2805.java)
 - [파리 퇴치](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_2001.java)
 - [괄호 짝짓기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1218.java)
+- [암호생성기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_1225.java)
+- [쇠 막대 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_5432.java)
+
+
 
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
