@@ -147,7 +147,7 @@
 - [오목](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2615.java)
 - [탑](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_2493.java)
 - [줄 세우기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2605.java)
-
+- [빙고](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2578.java)
 
 
 ## ❌ 미해결 문제
