@@ -191,6 +191,11 @@
 - [쇠 막대 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_5432.java)
 - [퍼펙트 셔플](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_3499.java)
 - [정사각형 방](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1861.java)
+- [햄버거 다이어트](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_5215.java)
+- [한빈이와 Spot Mart](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_9229.java)
+- [가랏! RC카!](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1940.java)
+
+
 
 
 # ✒️Programmers 
