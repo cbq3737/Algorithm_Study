@@ -194,7 +194,7 @@
 - [햄버거 다이어트](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_5215.java)
 - [한빈이와 Spot Mart](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_9229.java)
 - [가랏! RC카!](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1940.java)
-
+- [암호문1] (https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1228.java)
 
 
 
