@@ -149,7 +149,7 @@
 - [줄 세우기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2605.java)
 - [빙고](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2578.java)
 - [색종이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2563.java)
-- [요세푸스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_1158.java)
+- [요세푸스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_1158.java)
 
 
 
