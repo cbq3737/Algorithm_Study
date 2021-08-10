@@ -20,8 +20,7 @@ public class num_2884 {
 			} else if (mNum >= 45) {
 				mNum = mNum - 45;
 				System.out.println(hNum + " " + mNum);
-			}
-			else{
+			} else {
 				System.out.println("잘못된 입력");
 			}
 		}

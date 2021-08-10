@@ -21,5 +21,4 @@ public class num_11051 {
 		}
 		return n*Factorial(n-1);
 	}
-
 }

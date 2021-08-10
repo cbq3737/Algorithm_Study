@@ -21,7 +21,7 @@ public class num_8958 {
 			int score =0;
 			for(int j=0;j<strs[i].length();j++) {
 				if(strs[i].charAt(j)=='O'||strs[i].charAt(j)=='o') {
-					score +=1;
+					score +=1; //보다 단순한 방법
 //					if(j==0) {
 //						score = 1;
 //					}
