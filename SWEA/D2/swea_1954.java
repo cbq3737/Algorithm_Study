@@ -44,3 +44,4 @@ public class swea_1954 {
 		System.out.println(sb);
 	}
 }
+
