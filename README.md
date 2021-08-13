@@ -157,8 +157,7 @@
 - [수열](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2491.java)
 - [도영이가 만든 맛있는 음식](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2961.java)
 - [백설 공주와 일곱 난쟁이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_3040.java)
-
-
+- [치킨 배달](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_15686.java)
 
 
 
@@ -211,8 +210,7 @@
 - [암호문1](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_1228.java)
 - [사칙연산 유효성 검사](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1233.java)
 - [규영이와 인영이의 카드게임](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_6808.java)
-- [스도쿠 검증]((https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1974.java)
-
+- [스도쿠 검증](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1974.java)
 
 
 # ✒️Programmers 
