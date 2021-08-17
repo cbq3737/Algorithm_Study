@@ -219,7 +219,13 @@
 ## 🗝 알고리즘 풀이 링크
 - [K번째 수](https://github.com/cbq3737/Algorithm_Study/tree/master/Programmers/k_num.java)
 - []
-- []
+- [] 
 
 
+
+
+# ✒️정올
+<http://jungol.co.kr/>
+## 🗝 알고리즘 풀이 링크
+- [냉장고](https://github.com/cbq3737/Algorithm_Study/blob/master/jungol/jungol_1828.java)
 
