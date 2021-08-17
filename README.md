@@ -212,7 +212,7 @@
 - [사칙연산 유효성 검사](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1233.java)
 - [규영이와 인영이의 카드게임](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_6808.java)
 - [스도쿠 검증](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1974.java)
-
+- [수의 새로운 연산](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_1493.java)
 
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
@@ -221,11 +221,8 @@
 - []
 - [] 
 
-
-
-
 # ✒️정올
 <http://jungol.co.kr/>
 ## 🗝 알고리즘 풀이 링크
-- [냉장고](https://github.com/cbq3737/Algorithm_Study/blob/master/jungol/jungol_1828.java)
+- [냉장고](https://github.com/cbq3737/Algorithm_Study/blob/master/src/jungol/jungol_1828.java)
 
