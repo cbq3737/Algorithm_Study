@@ -161,7 +161,7 @@
 - [치킨 배달](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_15686.java)
 - [캐슬 디펜스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_17135.java)
 - [종이 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2628.java)
-
+- [쿼드트리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step19/num_1992.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)
