@@ -163,9 +163,10 @@
 - [종이 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2628.java)
 - [쿼드트리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step19/num_1992.java)
 
+
+
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)
-
 
 
 
@@ -214,6 +215,7 @@
 - [스도쿠 검증](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1974.java)
 - [수의 새로운 연산](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_1493.java)
 - [무선 충전](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_5644.java)
+- [요리사](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_4012.java)
 
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
