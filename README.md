@@ -163,6 +163,7 @@
 - [종이 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2628.java)
 - [쿼드트리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step19/num_1992.java)
 - [빵집](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_3109.java)
+- [알파벳]((https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_1987.java)
 
 
 ## ❌ 미해결 문제
