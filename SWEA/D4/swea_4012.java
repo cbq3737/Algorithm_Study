@@ -1,15 +1,10 @@
-package swea_im_test;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class swea_4012 {
-	public static List<Integer> list = new ArrayList<Integer>();
-	public static List<Integer> remain = new ArrayList<Integer>();
 	public static int[][] grid;
 	public static int min;
 	public static int nNum;
@@ -27,7 +22,6 @@ public class swea_4012 {
 				}
 			}
 			min =Integer.MAX_VALUE;
-			remain = new ArrayList<>();
 			makeCombi(0,new int[nNum/2],0);
 			sb.append("#"+(t+1)+" "+min+"\n");
 		}

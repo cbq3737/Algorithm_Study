@@ -162,7 +162,7 @@
 - [캐슬 디펜스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_17135.java)
 - [종이 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2628.java)
 - [쿼드트리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step19/num_1992.java)
-
+- [빵집](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_3109.java)
 
 
 ## ❌ 미해결 문제
@@ -186,7 +186,6 @@
 - [여러 종류의 동전으로 가격 지불하는 문제](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_8/greedyTest.java)
 - [경우의 수](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_9/BruteForceSearch.java)
 - [특정 범위의 숫자가 나열되어 있을 때 각 숫자의 개수](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_10/Counting.java)
-
 
 
 
@@ -216,6 +215,8 @@
 - [수의 새로운 연산](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_1493.java)
 - [무선 충전](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_5644.java)
 - [요리사](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_4012.java)
+- [최적 경로](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D5/swea_1247.java)
+
 
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
