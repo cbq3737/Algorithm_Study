@@ -163,7 +163,8 @@
 - [종이 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2628.java)
 - [쿼드트리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step19/num_1992.java)
 - [빵집](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_3109.java)
-- [알파벳]((https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_1987.java)
+- [알파벳](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_1987.java)
+- [감시](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_15683.java)
 
 
 ## ❌ 미해결 문제
@@ -217,6 +218,7 @@
 - [무선 충전](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_5644.java)
 - [요리사](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_4012.java)
 - [최적 경로](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D5/swea_1247.java)
+- [계산기2](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1223.java)
 
 
 # ✒️Programmers 

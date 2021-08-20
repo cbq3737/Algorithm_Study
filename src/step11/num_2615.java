@@ -64,7 +64,6 @@ public class num_2615 {
 									ni_del = i+deltas_del[d][0];
 									nj_del = j+deltas_del[d][1];
 								} 
-								//여기 조건문 굳이 length까지 검사 안해줘도 될 듯.-> 나중에 빼보자.
 								if(flag == true &&ni_del>=0&&nj_del>=0&&ni_del<grid.length&&nj_del<grid.length&&grid[ni_del][nj_del]!=win_color||zero_flag==true) {										
 									win_i = i;
 									win_j = j;
