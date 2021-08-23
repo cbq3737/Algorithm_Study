@@ -168,6 +168,7 @@
 - [Z](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_1074.java)
 - [DFS와 BFS](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1260.java)
 - [암호 만들기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1759.java)
+- [경비원](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2564.java)
 
 
 ## ❌ 미해결 문제
