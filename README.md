@@ -169,6 +169,8 @@
 - [DFS와 BFS](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1260.java)
 - [암호 만들기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_1759.java)
 - [경비원](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2564.java)
+- [방 배정](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_13300.java)
+- [색종이]((https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_10163.java)
 
 
 ## ❌ 미해결 문제
@@ -222,6 +224,8 @@
 - [최적 경로](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D5/swea_1247.java)
 - [계산기2](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1223.java)
 - [Contact](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1238.java)
+- [창용 마을 무리의 개수](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_7465.java)
+- [서로소 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_3289.java)
 
 
 # ✒️Programmers 

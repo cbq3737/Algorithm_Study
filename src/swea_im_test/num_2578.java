@@ -10,7 +10,6 @@ public class num_2578 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String[] order = new String[26];
-		int idx =0;
 		for (int i = 0; i < 5; i++) {
 			StringTokenizer tk = new StringTokenizer(br.readLine());
 			for (int j = 0; j < 5; j++) { //받는 부분
@@ -51,7 +50,7 @@ public class num_2578 {
 				if(col[col_num]==5){
 					sum+=1;
 				}
-				if(sum>=3) {
+				if(sum>=3) {	
 					break;
 				}
 			}
