@@ -228,7 +228,7 @@
 - [창용 마을 무리의 개수](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_7465.java)
 - [서로소 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_3289.java)
 - [하나로](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1251.java)
-
+- [저수지의 물의 총 깊이 구하기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_7236.java)
 
 
 # ✒️Programmers 
@@ -242,4 +242,4 @@
 <http://jungol.co.kr/>
 ## 🗝 알고리즘 풀이 링크
 - [냉장고](https://github.com/cbq3737/Algorithm_Study/blob/master/src/jungol/jungol_1828.java)
-
+- [오류교정](https://github.com/cbq3737/Algorithm_Study/blob/master/src/jungol/jungol_1037.java)
