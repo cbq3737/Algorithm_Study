@@ -172,7 +172,7 @@
 - [방 배정](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_13300.java)
 - [색종이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_10163.java)
 - [적록색약](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_10026.java)
-
+- [참외밭](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2477.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)
@@ -229,7 +229,7 @@
 - [서로소 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_3289.java)
 - [하나로](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1251.java)
 - [저수지의 물의 총 깊이 구하기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_7236.java)
-
+- [백만 장자 프로젝트](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1859.java)
 
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
