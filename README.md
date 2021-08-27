@@ -173,6 +173,7 @@
 - [색종이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_10163.java)
 - [적록색약](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_10026.java)
 - [참외밭](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2477.java)
+- [N-퍼즐](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_3041.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)
@@ -243,3 +244,4 @@
 ## 🗝 알고리즘 풀이 링크
 - [냉장고](https://github.com/cbq3737/Algorithm_Study/blob/master/src/jungol/jungol_1828.java)
 - [오류교정](https://github.com/cbq3737/Algorithm_Study/blob/master/src/jungol/jungol_1037.java)
+- [조커](https://github.com/cbq3737/Algorithm_Study/blob/master/src/jungol/jungol_1205.java)
