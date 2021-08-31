@@ -175,9 +175,11 @@
 - [참외밭](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_2477.java)
 - [N-퍼즐](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_3041.java)
 - [큐,덱](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_18258.java)
+- [카드2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_2164.java)
+
 
 ## ❌ 미해결 문제
-- [이항 계수2](https://www.acmicpc.net/problem/11051)
+- [이항 계수2](https://www.acmicpc.net/problem/11051)	
 
 
 # ✒️FastCampus
