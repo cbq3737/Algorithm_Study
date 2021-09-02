@@ -177,6 +177,7 @@
 - [큐,덱](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_18258.java)
 - [카드2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_2164.java)
 - [요세푸스문제0](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_11866.java)
+- [프린터 큐](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_1966.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
