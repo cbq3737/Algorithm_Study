@@ -179,6 +179,8 @@
 - [요세푸스문제0](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_11866.java)
 - [프린터 큐](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_1966.java)
 - [덱](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_10866.java)
+- [회전하는 큐](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_1021.java)
+
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
