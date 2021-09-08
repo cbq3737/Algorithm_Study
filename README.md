@@ -127,6 +127,7 @@
 - [ATM](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_11399.java)
 - [잃어버린 괄호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_1541.java)
 - [주유소](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_13305.java)
+- [주유소_복습](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_13305_repeat.java)
 - [배수와 약수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_5086.java)
 - [약수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_1037.java)
 - [최대공약수와 최소공배수](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_2609.java)
@@ -184,6 +185,7 @@
 - [트리 순회](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_1991.java)
 - [치킨치킨치킨](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_16439.java)
 - [회문](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_17609.java)
+
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
