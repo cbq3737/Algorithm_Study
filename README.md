@@ -185,7 +185,7 @@
 - [트리 순회](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step10/num_1991.java)
 - [치킨치킨치킨](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_16439.java)
 - [회문](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_17609.java)
-
+- [토마토](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_7576.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
@@ -206,7 +206,6 @@
 - [여러 종류의 동전으로 가격 지불하는 문제](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_8/greedyTest.java)
 - [경우의 수](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_9/BruteForceSearch.java)
 - [특정 범위의 숫자가 나열되어 있을 때 각 숫자의 개수](https://github.com/cbq3737/Algorithm_Study/blob/master/%ED%8C%A8%EC%BA%A0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/algorithm_10/Counting.java)
-
 
 
 # ✒️SWEA
