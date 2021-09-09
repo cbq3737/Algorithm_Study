@@ -186,10 +186,10 @@
 - [치킨치킨치킨](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_16439.java)
 - [회문](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15/num_17609.java)
 - [토마토](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_7576.java)
-- [효율적인 해킹](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1325.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
+- [효율적인 해킹](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1325.java)
 
 
 # ✒️FastCampus
