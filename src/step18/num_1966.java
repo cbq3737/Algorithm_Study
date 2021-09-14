@@ -20,7 +20,7 @@ public class num_1966 {
 			LinkedList<Integer> list = new LinkedList();
 			tk = new StringTokenizer(br.readLine());
 			for (int i = 0; i < nNum; i++) {
-				list.offer(Integer.parseInt(tk.nextToken()));
+				list.offer(Integer.parseInt(tk.nextToken()));	
 			}
 
 			int cnt = 0;
