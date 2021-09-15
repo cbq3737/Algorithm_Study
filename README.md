@@ -246,6 +246,7 @@
 - [하나로](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1251.java)
 - [저수지의 물의 총 깊이 구하기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_7236.java)
 - [백만 장자 프로젝트](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D2/swea_1859.java)
+- [최소 스패닝 트리](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_3124.java)
 
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
