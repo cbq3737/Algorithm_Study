@@ -190,7 +190,7 @@
 - [패션왕 신해빈](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16/num_9375.java)
 - [구간 합 구하기	4](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_im_test/num_11659.java)
 - [치즈](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2636.java)
-- [맥주 마시면서 걸어가기]((https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_9205.java)
+- [맥주 마시면서 걸어가기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_9205.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
