@@ -192,6 +192,7 @@
 - [치즈](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2636.java)
 - [맥주 마시면서 걸어가기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_9205.java)
 - [플로이드](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_11404.java)
+- [연구소](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_14502.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
@@ -252,6 +253,7 @@
 - [최소 스패닝 트리](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_3124.java)
 - [사람 네트워크2](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D6/swea_1263.java)
 - [최장 증가 부분 수열](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D3/swea_3307.java)
+- [프로세서 연결하기](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/swea_1767.java)
 
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
