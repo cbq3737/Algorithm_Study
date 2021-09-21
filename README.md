@@ -193,7 +193,8 @@
 - [맥주 마시면서 걸어가기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_9205.java)
 - [플로이드](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_11404.java)
 - [연구소](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_14502.java)
-- [우주신과의 교감](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1174.java)
+- [우주신과의 교감_prim](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1774_prim.java)
+- [우주신과의 교감_kruskal](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1774_kruskal.java)
 - [집합의 표현](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step28/num_1717.java)
 
 ## ❌ 미해결 문제
