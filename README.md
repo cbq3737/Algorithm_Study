@@ -197,7 +197,7 @@
 - [우주신과의 교감_kruskal](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1774_kruskal.java)
 - [집합의 표현](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step28/num_1717.java)
 - [찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7/num_1786.java)
-
+- [최단거리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_1753.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
