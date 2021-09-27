@@ -201,10 +201,12 @@
 - [미세먼지 안녕!](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_17144.java)
 - [마인크래프트](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_18111.java)
 - [동전](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9084.java)
+- [숫자놀이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_1755.java)
+
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
 - [효율적인 해킹](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1325.java)
-
+- [백남이의 여행준비](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_23061.java)
 
 # ✒️FastCampus	
 
