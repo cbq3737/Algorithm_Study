@@ -203,6 +203,11 @@
 - [동전](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9084.java)
 - [숫자놀이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_1755.java)
 
+- [베스트셀러](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_1302.java)
+- [대칭 차집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_1269.java)
+- [싸이버개강총회](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_19583.java)
+
+
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
 - [효율적인 해킹](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1325.java)
