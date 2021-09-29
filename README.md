@@ -202,8 +202,10 @@
 - [마인크래프트](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_18111.java)
 - [동전](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_9084.java)
 - [숫자놀이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step12/num_1755.java)
-
 - [베스트셀러](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_1302.java)
+- [녹색 옷 입은 애가 젤다지?](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_4485.java)
+- [녹색 옷 입은 애가 젤다지?_다익스트라](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_4485.java)
+
 - [대칭 차집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_1269.java)
 - [싸이버개강총회](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_19583.java)
 
