@@ -28,7 +28,6 @@ public class num_7576 {
 				}
 			}
 		}
-		
 		int cnt =0;
 		if(!zero_flag) {
 			System.out.println(0);
