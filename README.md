@@ -274,8 +274,7 @@
 - [원점으로 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_8458.java)
 - [보급로](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/D4/swea_1249.java)
 - [탈주범 검거](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/swea_1953.java)
-
-
+- [특이한 자석](https://github.com/cbq3737/Algorithm_Study/blob/master/SWEA/swea_4013.java)
 
 # ✒️Programmers 
 <https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit>
