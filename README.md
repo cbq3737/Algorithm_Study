@@ -207,7 +207,6 @@
 - [녹색 옷 입은 애가 젤다지?_다익스트라](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_4485.java)
 - [키 순서](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2458.java)
 - [낚시왕](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_17143.java)
-
 - [대칭 차집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_1269.java)
 - [싸이버개강총회](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_19583.java)
 

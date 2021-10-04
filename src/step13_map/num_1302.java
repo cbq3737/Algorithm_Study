@@ -14,7 +14,8 @@ public class num_1302 {
 		for(int i=0;i<nNum;i++) {
 			String title = br.readLine();
 			if(hmap.containsKey(title)) {
-				hmap.put(title, hmap.get(title)+1);
+				hmap.replace(title, hmap.get(title)+1);
+
 			}else {
 				hmap.put(title,1);
 			}
