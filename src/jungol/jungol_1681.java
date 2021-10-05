@@ -43,9 +43,9 @@ public class jungol_1681 { //프림은 갔다가 오는것까진 포함이 아�
 		}
 		visited[idx] = true;
 		for(int i=0;i<nNum;i++) {
-			if(!visited[i]&&grid[idx][i]!=0) {
+			if(!visited[i]&&grid[idx][i]!=0) { //방문한곳과 갈수없는 곳 제외
 				result += grid[idx][i];
-				if(result<min) {	//dfs체크			
+				if(result<min) {	//dfs체크, result넘어가면 무시			
 					dfs(i,result,cnt+1);
 				}
 				visited[i] = false;
