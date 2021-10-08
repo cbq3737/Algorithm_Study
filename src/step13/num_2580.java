@@ -64,8 +64,10 @@ public class num_2580 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		for(int i=0;i<9;i++) {
 			StringTokenizer tk = new StringTokenizer(br.readLine());
+//			String str = br.readLine();
 			for(int j=0;j<9;j++) {
 				arr[i][j] = Integer.parseInt(tk.nextToken());
+//				arr[i][j] = str.charAt(j)-'0';
 			}
 		}
 		check_num(0,0);

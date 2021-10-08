@@ -208,8 +208,9 @@
 - [키 순서](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2458.java)
 - [낚시왕](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_17143.java)
 - [알고스팟](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24/num_1261.java)
-- [벽 부수고 이동하기]((https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2206.java)
+- [벽 부수고 이동하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2206.java)
 - [대칭 차집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_1269.java)
+- [스도쿠](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_2239.java)
 - [싸이버개강총회](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_19583.java)
 
 
