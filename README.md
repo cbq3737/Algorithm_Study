@@ -211,6 +211,7 @@
 - [벽 부수고 이동하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2206.java)
 - [대칭 차집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_1269.java)
 - [스도쿠](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_2239.java)
+- [숨바꼭질2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_12851.java)
 - [싸이버개강총회](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_19583.java)
 
 
