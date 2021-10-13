@@ -213,6 +213,7 @@
 - [스도쿠](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13/num_2239.java)
 - [숨바꼭질2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_12851.java)
 - [싸이버개강총회](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_19583.java)
+- [내리막 길](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_1520.java)
 
 
 ## ❌ 미해결 문제
