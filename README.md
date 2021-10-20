@@ -222,7 +222,7 @@
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
 - [효율적인 해킹](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1325.java)
-- [백남이의 여행준비](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_23061.java)
+- [백남이의 여행준비](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14/num_23601.java)
 
 # ✒️FastCampus	
 
