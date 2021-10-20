@@ -217,7 +217,7 @@
 - [마인크래프트](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_18111.java)
 - [부등호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2529.java)
 - [컨베이어 벨트 위의 로봇](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_20055.java)
-
+- [게리맨더링](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_17471.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
