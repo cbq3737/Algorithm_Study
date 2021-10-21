@@ -219,6 +219,8 @@
 - [컨베이어 벨트 위의 로봇](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_20055.java)
 - [게리맨더링](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_17471.java)
 
+
+
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
 - [효율적인 해킹](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1325.java)
