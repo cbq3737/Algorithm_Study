@@ -1,4 +1,6 @@
 package step23;
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -63,10 +65,11 @@ public class num_17471 {//게리멘더링
 				if(t_flag&&f_flag) {
 					break;
 				}
-				if(!f_flag&&!isselect[i]) {
+				else if(!f_flag&&!isselect[i]) {
 					f_queue.offer(i); //맨처음 스타트 수
 					f_flag= true; //여기에 들어오기라도 하면
-				}else if(!t_flag&&isselect[i]) {
+				}
+				else if(!t_flag&&isselect[i]) {
 					t_queue.offer(i);
 					t_flag = true;
 				}
@@ -86,6 +89,8 @@ public class num_17471 {//게리멘더링
 					min = result;
 				}
 			}
+			t_queue.clear();
+			f_queue.clear();
 			return;
 		}
 		isselect[cnt] = true;
@@ -97,12 +102,16 @@ public class num_17471 {//게리멘더링
 	public static boolean t_bfs(boolean[] isselect) {
 		while(!t_queue.isEmpty()) {//false인 애들 체크
 			int num = t_queue.poll();
-			for(int i=0;i<graph.get(num).size();i++) {
-				int idx = graph.get(num).get(i);//이어져 있는 애
-				if(isselect[idx]) {//이어져있는 애들 중 T라면 담아준다
-					t_queue.offer(idx);//그담 이어져있는 애들 판단해줘야댐
+			if(graph.get(num).size()==0) {
+				isselect[num] = false; 		
+			}else {				
+				for(int i=0;i<graph.get(num).size();i++) {
+					int idx = graph.get(num).get(i);//이어져 있는 애
+					if(isselect[idx]) {//이어져있는 애들 중 T라면 담아준다
+						t_queue.offer(idx);//그담 이어져있는 애들 판단해줘야댐
+					}
+					isselect[num] = false; 			
 				}
-				isselect[num] = false; 			
 			}
 		}
 		
@@ -116,15 +125,18 @@ public class num_17471 {//게리멘더링
 	public static boolean f_bfs(boolean[] isselect) {//배열에서 F인애들끼리 이어지는 체크	
 		while(!f_queue.isEmpty()) {//false인 애들 체크
 			int num = f_queue.poll();
-			for(int i=0;i<graph.get(num).size();i++) {
-				int idx = graph.get(num).get(i);//이어져 있는 애
-				if(!isselect[idx]) {//이어져있는 애들 중 F라면 담아준다
-					f_queue.offer(idx);//그담 이어져있는 애들 판단해줘야댐
+			if(graph.get(num).size()==0) {
+				isselect[num] = true; 
+			}else {				
+				for(int i=0;i<graph.get(num).size();i++) {
+					int idx = graph.get(num).get(i);//이어져 있는 애
+					if(!isselect[idx]) {//이어져있는 애들 중 F라면 담아준다
+						f_queue.offer(idx);//그담 이어져있는 애들 판단해줘야댐
+					}
+					isselect[num] = true; 			
 				}
-				isselect[num] = true; 			
 			}
 		}
-		
 		for(int i=0;i<isselect.length;i++) {
 			if(!isselect[i]) {//한명이라도 F라면.
 				return false;
