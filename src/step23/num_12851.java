@@ -46,7 +46,7 @@ public class num_12851 {//숨바꼭질2
 		while(!queue.isEmpty()) {
 			int loc = queue.poll();
 			if(loc+1<time.length) {//앞으로 한걸음 걸어갈때
-				if(time[loc+1]>=time[loc]+1) {//같거나 작을때
+				if(time[loc+1]>=time[loc]+1) {//크기
 					queue.offer(loc+1);
 					if(time[loc+1]>time[loc]+1) {//값을 갱신해야하는 경우만						
 						time[loc+1] = time[loc]+1;
