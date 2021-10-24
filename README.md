@@ -218,7 +218,8 @@
 - [부등호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_2529.java)
 - [컨베이어 벨트 위의 로봇](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_20055.java)
 - [게리맨더링](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_17471.java)
-
+- [차이를 최대로](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_10819.java)
+- [카드 놓기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_18115.java)
 
 
 ## ❌ 미해결 문제
