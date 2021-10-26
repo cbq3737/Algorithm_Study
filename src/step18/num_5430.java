@@ -1,10 +1,10 @@
 package step18;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Deque;
 import java.util.LinkedList;
-import java.util.Queue;
 
 public class num_5430 { // AC
 	public static void main(String[] args) throws NumberFormatException, IOException {
@@ -15,8 +15,7 @@ public class num_5430 { // AC
 		for (int i = 0; i < tcase; i++) {
 			String oper = br.readLine();// 함수 명령어
 			int nNum = Integer.parseInt(br.readLine());
-			Deque<Integer> new_queue = new LinkedList();// 새로운 배열
-			if (nNum > 0) {
+			if (nNum > 0) {//비어있지않은 배열을 파싱할 때
 				String[] str = br.readLine().split(",|[|]");
 				for (int j = 0; j < str.length; j++) {
 					if (j == 0 || j == str.length - 1) {
@@ -25,24 +24,22 @@ public class num_5430 { // AC
 					}
 					queue.offer(Integer.parseInt(str[j]));
 				}
-			}else {
-				String empty = br.readLine();
+			}else {//빈 것일때
+				br.readLine();
 			}
 			boolean flag = false;
+			boolean reverse = false;//true면 뒤에꺼 삭제, false면 앞에꺼 삭제
 			for (int j = 0; j < oper.length(); j++) {
 				char c = oper.charAt(j);
 				if (c == 'R') {// 거꾸로
-					int size = queue.size();
-					for (int d = 0; d < size; d++) {
-						new_queue.addFirst(queue.poll());
-
-					}
-					for (int d = 0; d < size; d++) {
-						queue.addLast(new_queue.poll());
-					}
+					reverse = !reverse;
 				} else if (c == 'D') {// 앞에꺼 하나 버리기
 					if (queue.size() > 0) {
-						queue.poll();
+						if(reverse) {//뒤바뀐 상태
+							queue.removeLast();							
+						}else {//원래 상태
+							queue.removeFirst();
+						}
 					} else {// 에러
 						sb.append("error" + "\n");
 						queue.clear();
@@ -54,8 +51,14 @@ public class num_5430 { // AC
 			if (!flag) {
 				sb.append("[");
 				int size = queue.size();
-				for (int j = 0; j < size - 1; j++) {
-					sb.append(queue.poll() + ",");
+				if(reverse) {//뒤바뀐 상태
+					for (int j = 0; j < size - 1; j++) {
+						sb.append(queue.pollLast() + ",");
+					}
+				}else {					
+					for (int j = 0; j < size - 1; j++) {
+						sb.append(queue.poll() + ",");
+					}
 				}
 				if (queue.size() > 0) {
 					sb.append(queue.poll());
