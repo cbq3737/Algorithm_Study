@@ -4,8 +4,8 @@
 <https://www.acmicpc.net/step>
 
 ## 🗝 알고리즘 풀이 링크
-- [고양이](https://github.com/cbq3737/Algorithm_Study/blob/c59352afb1e5b469bd32c0f1b6012fa4be9d1843/src/step1_입출력과_사칙연산/num_10171.java)
-- [개](https://github.com/cbq3737/Algorithm_Study/blob/c59352afb1e5b469bd32c0f1b6012fa4be9d1843/src/step1_입출력과_사칙연산/num_10172.java)
+- [고양이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step1_입출력과_사칙연산/num_10171.java)
+- [개](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step1_입출력과_사칙연산/num_10172.java)
 - [A+B](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step1_입출력과_사칙연산/num_1000.java)
 - [A-B](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step1_입출력과_사칙연산/num_1001.java)
 - [AXB](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step1_입출력과_사칙연산/num_10998.java)
