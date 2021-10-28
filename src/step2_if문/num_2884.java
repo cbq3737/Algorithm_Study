@@ -1,4 +1,4 @@
-package step2;
+package step2_if문;
 
 import java.util.Scanner;
 
