@@ -1,4 +1,4 @@
-package step4;
+package step4_while문;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
