@@ -1,4 +1,4 @@
-package step3;
+package step3_for문;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
