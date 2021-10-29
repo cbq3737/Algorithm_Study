@@ -1,4 +1,4 @@
-package step5;
+package step5_배열;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
