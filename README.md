@@ -223,6 +223,7 @@
 - [AC](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step18/num_5430.java)
 - [경로찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_11403.java)
 - [네트워크 연결](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1922.java)
+- [색종이 만들기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step19/num_2630.java)
 
 
 ## ❌ 미해결 문제
