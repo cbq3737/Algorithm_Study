@@ -1,4 +1,4 @@
-package step6;
+package step6_함수;
 
 public class num_4673 {
 	

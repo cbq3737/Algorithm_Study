@@ -1,4 +1,4 @@
-package step6;
+package step6_함수;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
