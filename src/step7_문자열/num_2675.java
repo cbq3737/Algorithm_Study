@@ -1,4 +1,4 @@
-package step7;
+package step7_문자열;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
