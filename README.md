@@ -225,6 +225,7 @@
 - [네트워크 연결](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1922.java)
 - [색종이 만들기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step19/num_2630.java)
 - [사탕 게임](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_3085.java)
+- [겹치는건 싫어](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step25_투포인터/num_20922.java)
 
 
 ## ❌ 미해결 문제
