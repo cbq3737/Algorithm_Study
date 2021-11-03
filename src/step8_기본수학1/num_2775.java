@@ -1,4 +1,4 @@
-package step8;
+package step8_기본수학1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
