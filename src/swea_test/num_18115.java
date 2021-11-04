@@ -10,8 +10,8 @@ import java.util.StringTokenizer;
 public class num_18115 {//카드 놓기
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringBuilder sb = new StringBuilder();
 		int nNum = Integer.parseInt(br.readLine());
+		StringBuilder sb = new StringBuilder(nNum);
 		int[] oper = new int[nNum];//기술 배열
 		Deque<Integer> deque = new LinkedList<Integer>();//처음 배열
 		int[] arr = new int[nNum];//결과 배열
