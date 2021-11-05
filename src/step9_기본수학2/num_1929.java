@@ -1,4 +1,4 @@
-package step9;
+package step9_기본수학2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
