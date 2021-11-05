@@ -227,6 +227,8 @@
 - [사탕 게임](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_3085.java)
 - [겹치는건 싫어](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step25_투포인터/num_20922.java)
 - [배열 복원하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_16967.java)
+- [퇴사](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11/num_14501.java)
+- [암기왕](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_2776.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
