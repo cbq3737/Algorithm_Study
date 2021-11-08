@@ -1,4 +1,4 @@
-package step12;
+package step12_정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
