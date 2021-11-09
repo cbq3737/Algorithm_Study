@@ -1,4 +1,4 @@
-package step13;
+package step14_백트래킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;
