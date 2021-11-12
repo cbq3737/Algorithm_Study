@@ -229,8 +229,9 @@
 - [배열 복원하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_16967.java)
 - [퇴사](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_14501.java)
 - [암기왕](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_2776.java)
-- [물통](https://github.com/cbq3737/Algorithm_Study/blob/master/src/ste23/num_2551.java)
-- [괄호의 값](https://github.com/cbq3737/Algorithm_Study/blob/master/src/ste17/num_2504.java)
+- [물통](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2551.java)
+- [괄호의 값](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_2504.java)
+- [데스나이트](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_16948.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
