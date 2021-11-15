@@ -232,6 +232,7 @@
 - [물통](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_2251.java)
 - [괄호의 값](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step17/num_2504.java)
 - [데스나이트](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_16948.java)
+- [스티커](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15_DP/num_9465.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
