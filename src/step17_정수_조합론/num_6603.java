@@ -1,4 +1,4 @@
-package step16;
+package step17_정수_조합론;
 
 import java.io.BufferedReader;
 import java.io.IOException;
