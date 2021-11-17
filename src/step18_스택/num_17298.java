@@ -1,4 +1,4 @@
-package step17;
+package step18_스택;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
