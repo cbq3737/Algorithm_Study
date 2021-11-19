@@ -235,7 +235,7 @@
 - [스티커](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15_DP/num_9465.java)
 - [트리의 부모 찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_11725.java)
 - [Four Squares](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_17626.java)
-
+- [뱀과 사다리 게임](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_16928.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
