@@ -161,7 +161,7 @@
 - [도영이가 만든 맛있는 음식](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_2961.java)
 - [백설 공주와 일곱 난쟁이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_3040.java)
 - [치킨 배달](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_15686.java)
-- [캐슬 디펜스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_17135.java)
+- [캐슬 디펜스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step1	1_브루트포스/num_17135.java)
 - [종이 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_2628.java)
 - [쿼드트리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step20_분할정복/num_1992.java)
 - [빵집](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14_백트래킹/num_3109.java)
@@ -241,6 +241,9 @@
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
 - [효율적인 해킹](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1325.java)
 - [백남이의 여행준비](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15_DP/num_23601.java)
+- [신입사원]
+(https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16_그리디/num_1946.java)
+
 
 # ✒️FastCampus	
 
