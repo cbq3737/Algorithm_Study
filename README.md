@@ -236,13 +236,15 @@
 - [트리의 부모 찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_11725.java)
 - [Four Squares](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_17626.java)
 - [뱀과 사다리 게임](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_16928.java)
+- [비밀번호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14_백트래킹/num_13908.java)
+- [신입사원]
+(https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16_그리디/num_1946.java)
+
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
 - [효율적인 해킹](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step23/num_1325.java)
 - [백남이의 여행준비](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step15_DP/num_23601.java)
-- [신입사원]
-(https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16_그리디/num_1946.java)
 
 
 # ✒️FastCampus	
