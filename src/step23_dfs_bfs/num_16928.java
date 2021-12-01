@@ -36,7 +36,6 @@ public class num_16928 {
 				ten = (grid[one].length-1);
 			}
 			grid[one][ten]=end;//사다리 위치에가서 숫자가 있다면 거기 적혀있는 숫자칸으로 가라
-		
 		}//21~30 = 7,xxxx , 30:7,9
 		//뱀의 배치
 		for(int i=0;i<mNum;i++) {
