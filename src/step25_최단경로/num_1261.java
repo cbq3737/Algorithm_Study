@@ -1,4 +1,4 @@
-package step24;
+package step25_최단경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;
