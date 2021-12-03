@@ -1,4 +1,4 @@
-package step23_dfs_bfs;
+package step24_dfs_bfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
