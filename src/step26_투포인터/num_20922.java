@@ -1,4 +1,4 @@
-package step25_투포인터;
+package step26_투포인터;
 
 import java.io.BufferedReader;
 import java.io.IOException;

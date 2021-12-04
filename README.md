@@ -225,7 +225,7 @@
 - [네트워크 연결](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1922.java)
 - [색종이 만들기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step20_분할정복/num_2630.java)
 - [사탕 게임](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_3085.java)
-- [겹치는건 싫어](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step25_투포인터/num_20922.java)
+- [겹치는건 싫어](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step26_투포인터/num_20922.java)
 - [배열 복원하기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_16967.java)
 - [퇴사](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_14501.java)
 - [암기왕](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_2776.java)
