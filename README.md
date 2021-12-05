@@ -239,7 +239,10 @@
 - [비밀번호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14_백트래킹/num_13908.java)
 - [신입사원]
 (https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16_그리디/num_1946.java)
-- [비밀번호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2606.java)
+- [바이러스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2606.java)
+- [단지번호붙이기]
+(https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2667.java)
+
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
