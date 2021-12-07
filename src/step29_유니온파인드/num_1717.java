@@ -1,4 +1,4 @@
-package step28;
+package step29_유니온파인드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

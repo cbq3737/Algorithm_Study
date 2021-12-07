@@ -195,7 +195,7 @@
 - [연구소](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_14502.java)
 - [우주신과의 교감_prim](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1774_prim.java)
 - [우주신과의 교감_kruskal](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29/num_1774_kruskal.java)
-- [집합의 표현](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step28/num_1717.java)
+- [집합의 표현](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step29_유니온파인드/num_1717.java)
 - [찾기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step7_문자열/num_1786.java)
 - [최단거리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step25_최단경로/num_1753.java)
 - [미세먼지 안녕!](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_17144.java)
