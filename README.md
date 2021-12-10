@@ -237,10 +237,8 @@
 - [Four Squares](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_17626.java)
 - [뱀과 사다리 게임](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_16928.java)
 - [비밀번호](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14_백트래킹/num_13908.java)
-- [신입사원]
-(https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16_그리디/num_1946.java)
-- [바이러스]
-(https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2606.java)
+- [신입사원](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16_그리디/num_1946.java)
+- [바이러스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2606.java)
 - [단지번호붙이기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2667.java)
 - [유기농 배추](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_1012.java)
 - [문자열 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step28_트리/num_14425.java)
