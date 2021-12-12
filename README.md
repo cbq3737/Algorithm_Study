@@ -161,7 +161,7 @@
 - [도영이가 만든 맛있는 음식](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_2961.java)
 - [백설 공주와 일곱 난쟁이](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_3040.java)
 - [치킨 배달](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_15686.java)
-- [캐슬 디펜스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step1	1_브루트포스/num_17135.java)
+- [캐슬 디펜스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_17135.java)
 - [종이 자르기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/swea_test/num_2628.java)
 - [쿼드트리](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step20_분할정복/num_1992.java)
 - [빵집](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14_백트래킹/num_3109.java)
@@ -242,8 +242,7 @@
 - [단지번호붙이기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2667.java)
 - [유기농 배추](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_1012.java)
 - [문자열 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step28_트리/num_14425.java)
-- [숨바꼭질3]
-https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_13549.java)
+- [숨바꼭질3](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_13549.java)
 
 
 ## ❌ 미해결 문제
