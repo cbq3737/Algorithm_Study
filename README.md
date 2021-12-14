@@ -241,7 +241,7 @@
 - [바이러스](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2606.java)
 - [단지번호붙이기](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_2667.java)
 - [유기농 배추](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_1012.java)
-- [문자열 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step28_트리/num_14425.java)
+- [문자열 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_14425.java)
 - [숨바꼭질3](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_13549.java)
  
 

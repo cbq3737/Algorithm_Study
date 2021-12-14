@@ -33,7 +33,5 @@ public class num_19583 {//싸이버 개강총회
 			}
 		}
 		System.out.println(cnt);
-
-		
 	}
 }
