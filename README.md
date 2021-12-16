@@ -244,6 +244,7 @@
 - [문자열 집합](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step13_map/num_14425.java)
 - [숨바꼭질3](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step24_dfs_bfs/num_13549.java)
 - [링크와 스타트](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step11_브루트포스/num_15661.java)
+- [보물](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16_그리디/num_1026.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
