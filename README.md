@@ -247,7 +247,7 @@
 - [보물](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step16_그리디/num_1026.java)
 - [외판원 순회2](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step14_백트래킹/num_10971.java)
 - [타임머신](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step25_최단경로/num_11657.java)
-
+- [웜홀](https://github.com/cbq3737/Algorithm_Study/blob/master/src/step25_최단경로/num_1865.java)
 
 ## ❌ 미해결 문제
 - [이항 계수2](https://www.acmicpc.net/problem/11051)	
